@@ -25,6 +25,8 @@
     "path": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest",
     "manifest": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
     "financial_statement_xml": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
-    "management_report_pdf": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf"
+    "financial_statement_ai_json": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "management_report_pdf": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   }
 ]
