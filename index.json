@@ -14,5 +14,13 @@
     "manifest": "companies/0000012941-ibm-polska/latest/manifest.json",
     "financial_statement_xml": "companies/0000012941-ibm-polska/latest/sprawozdanie_finansowe.xml",
     "management_report_pdf": "companies/0000012941-ibm-polska/latest/sprawozdanie_zarzadu.pdf"
+  },
+  {
+    "krs": "0000019909",
+    "company": "CISCO SYSTEMS POLAND SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "path": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "financial_statement_xml": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "management_report_pdf": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf"
   }
 ]
