@@ -1,10 +1,10 @@
-﻿[
+[
   {
     "krs": "0000002554",
-    "company": "PAREXEL POLSKA SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
-    "path": "companies/0000002554-parexel-polska/latest",
-    "manifest": "companies/0000002554-parexel-polska/latest/manifest.json",
-    "financial_statement_xml": "companies/0000002554-parexel-polska/latest/sprawozdanie_finansowe.xml",
-    "management_report_pdf": "companies/0000002554-parexel-polska/latest/sprawozdanie_zarzadu.pdf"
+    "company": "PAREXEL POLSKA SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "path": "companies/0000002554-parexel-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000002554-parexel-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "financial_statement_xml": "companies/0000002554-parexel-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "management_report_pdf": "companies/0000002554-parexel-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf"
   }
 ]
