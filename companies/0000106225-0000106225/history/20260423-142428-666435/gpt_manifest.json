@@ -4,14 +4,14 @@
   "krs": "0000106225",
   "published_at": "2026-04-23",
   "canonical_path": "companies/0000106225-0000106225/latest",
-  "unit_of_measure": "PLN",
+  "unit_of_measure": "",
   "start_here": "financial_statement_ai_view_json",
   "read_order": [
     {
       "kind": "financial_statement_ai_view_json",
       "why": "Fast labeled view of RZiS, bilans, cashflow, equity, and tax note rows.",
-      "path": "companies/0000106225-0000106225/latest/sprawozdanie_finansowe_ai_view.json",
-      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000106225-0000106225/latest/sprawozdanie_finansowe_ai_view.json"
+      "path": "",
+      "raw_url": ""
     },
     {
       "kind": "management_report_ai_txt",
@@ -22,14 +22,14 @@
     {
       "kind": "financial_statement_ai_json",
       "why": "Faithful XML mirror for detailed verification and edge cases.",
-      "path": "companies/0000106225-0000106225/latest/sprawozdanie_finansowe_ai.json",
-      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000106225-0000106225/latest/sprawozdanie_finansowe_ai.json"
+      "path": "",
+      "raw_url": ""
     },
     {
       "kind": "financial_statement_xml",
       "why": "Original source XML.",
-      "path": "companies/0000106225-0000106225/latest/sprawozdanie_finansowe.xml",
-      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000106225-0000106225/latest/sprawozdanie_finansowe.xml"
+      "path": "",
+      "raw_url": ""
     },
     {
       "kind": "management_report_pdf",
