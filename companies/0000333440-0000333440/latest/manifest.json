@@ -1,0 +1,20 @@
+{
+  "company_name": "0000333440",
+  "krs": "0000333440",
+  "status": "downloaded",
+  "published_at": "2026-04-26",
+  "canonical_path": "companies/0000333440-0000333440/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_zarzadu.pdf",
+      "kind": "management_report_pdf",
+      "path": "companies/0000333440-0000333440/latest/sprawozdanie_zarzadu.pdf"
+    },
+    {
+      "name": "sprawozdanie_zarzadu_ai.txt",
+      "kind": "management_report_ai_text",
+      "path": "companies/0000333440-0000333440/latest/sprawozdanie_zarzadu_ai.txt"
+    }
+  ]
+}
