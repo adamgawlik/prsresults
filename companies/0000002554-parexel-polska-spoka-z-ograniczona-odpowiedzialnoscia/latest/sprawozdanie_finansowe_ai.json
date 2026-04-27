@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-04-27T09:51:51",
-  "source_file": "02_roczne-sprawozdanie-finansowe__Parexel_eSF_20241231-2.xml",
+  "generated_at": "2026-04-27T09:59:19",
+  "source_file": "02_roczne-sprawozdanie-finansowe__Parexel_eSF_20241231-2_bbc9aa6d.xml",
   "root_tag": "JednostkaInna",
   "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2025/01/01/JednostkaInnaWZlotych",
   "namespaces": {
