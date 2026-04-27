@@ -1,0 +1,25 @@
+{
+  "company_name": "KPMG TAX M.MICHNA SPÓŁKA KOMANDYTOWA",
+  "krs": "0000283669",
+  "status": "downloaded",
+  "published_at": "2026-04-28",
+  "canonical_path": "companies/0000283669-0000283669/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.xml",
+      "kind": "financial_statement_xml",
+      "path": "companies/0000283669-0000283669/latest/sprawozdanie_finansowe.xml"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.json",
+      "kind": "financial_statement_ai_json",
+      "path": "companies/0000283669-0000283669/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai_view.json",
+      "kind": "financial_statement_ai_view_json",
+      "path": "companies/0000283669-0000283669/latest/sprawozdanie_finansowe_ai_view.json"
+    }
+  ]
+}
