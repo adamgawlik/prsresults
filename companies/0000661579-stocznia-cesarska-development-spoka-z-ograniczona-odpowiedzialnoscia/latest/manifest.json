@@ -1,0 +1,25 @@
+{
+  "company_name": "STOCZNIA CESARSKA DEVELOPMENT SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+  "krs": "0000661579",
+  "status": "downloaded",
+  "published_at": "2026-04-29",
+  "canonical_path": "companies/0000661579-stocznia-cesarska-development-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.xml",
+      "kind": "financial_statement_xml",
+      "path": "companies/0000661579-stocznia-cesarska-development-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.json",
+      "kind": "financial_statement_ai_json",
+      "path": "companies/0000661579-stocznia-cesarska-development-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai_view.json",
+      "kind": "financial_statement_ai_view_json",
+      "path": "companies/0000661579-stocznia-cesarska-development-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json"
+    }
+  ]
+}
