@@ -1,0 +1,20 @@
+{
+  "company_name": "DANSKE BANK A S SPOKA AKCYJNA ODDZIA W POLSCE",
+  "krs": "0000250684",
+  "status": "downloaded",
+  "published_at": "2026-04-30",
+  "canonical_path": "companies/0000250684-danske-bank-a-s-spoka-akcyjna-oddzia-w-polsce/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.pdf",
+      "kind": "financial_statement_pdf",
+      "path": "companies/0000250684-danske-bank-a-s-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe.pdf"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.txt",
+      "kind": "financial_statement_ai_text",
+      "path": "companies/0000250684-danske-bank-a-s-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe_ai.txt"
+    }
+  ]
+}
