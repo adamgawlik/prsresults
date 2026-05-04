@@ -278,6 +278,20 @@
     "management_report_ai_txt": "companies/0000418977-0000418977/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000432412",
+    "company": "TRAFFORD IT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "path": "companies/0000432412-trafford-it-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komandytowa/latest",
+    "manifest": "companies/0000432412-trafford-it-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komandytowa/latest/manifest.json",
+    "gpt_manifest": "companies/0000432412-trafford-it-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komandytowa/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000432412-trafford-it-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komandytowa/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000432412-trafford-it-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komandytowa/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000432412-trafford-it-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komandytowa/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000432412-trafford-it-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komandytowa/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000432412-trafford-it-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komandytowa/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000606530",
     "company": "Callstack.io Sp. z o.o.",
     "path": "companies/0000606530-callstack.io-spoka-z-ograniczona-odpowiedzialnoscia/latest",
