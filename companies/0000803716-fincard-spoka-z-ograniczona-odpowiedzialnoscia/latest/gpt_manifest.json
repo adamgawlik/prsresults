@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "company_name": "FINCARD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "krs": "0000803716",
+  "published_at": "2026-05-04",
+  "canonical_path": "companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+  "unit_of_measure": "PLN",
+  "start_here": "financial_statement_ai_view_json",
+  "read_order": [
+    {
+      "kind": "financial_statement_ai_view_json",
+      "why": "Fast labeled view of RZiS, bilans, cashflow, equity, and tax note rows.",
+      "path": "companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json"
+    },
+    {
+      "kind": "management_report_ai_txt",
+      "why": "Plain-text management report for narrative analysis.",
+      "path": "companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+    },
+    {
+      "kind": "financial_statement_ai_json",
+      "why": "Faithful XML mirror for detailed verification and edge cases.",
+      "path": "companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "kind": "financial_statement_xml",
+      "why": "Original source XML.",
+      "path": "companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml"
+    },
+    {
+      "kind": "management_report_pdf",
+      "why": "Original source PDF.",
+      "path": "companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf"
+    }
+  ],
+  "analysis_targets": [
+    "basic company info",
+    "revenues",
+    "costs",
+    "gross result",
+    "net result",
+    "tax note fields"
+  ]
+}
