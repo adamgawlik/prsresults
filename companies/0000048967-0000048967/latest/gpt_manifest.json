@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "company_name": "0000048967",
+  "krs": "0000048967",
+  "published_at": "2026-05-05",
+  "canonical_path": "companies/0000048967-0000048967/latest",
+  "unit_of_measure": "",
+  "start_here": "financial_statement_ai_txt",
+  "read_order": [
+    {
+      "kind": "financial_statement_ai_txt",
+      "why": "Plain-text extraction from PDF financial statement when XML is unavailable.",
+      "path": "companies/0000048967-0000048967/latest/sprawozdanie_finansowe_ai.txt",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000048967-0000048967/latest/sprawozdanie_finansowe_ai.txt"
+    },
+    {
+      "kind": "financial_statement_pdf",
+      "why": "Original PDF financial statement.",
+      "path": "companies/0000048967-0000048967/latest/sprawozdanie_finansowe.pdf",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000048967-0000048967/latest/sprawozdanie_finansowe.pdf"
+    }
+  ],
+  "analysis_targets": [
+    "basic company info",
+    "revenues",
+    "costs",
+    "gross result",
+    "net result",
+    "tax note fields"
+  ]
+}
