@@ -1,11 +1,26 @@
 {
-  "company_name": "0000048967",
+  "company_name": "ROSSMANN SUPERMARKETY DROGERYJNE POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
   "krs": "0000048967",
   "status": "downloaded",
   "published_at": "2026-05-05",
   "canonical_path": "companies/0000048967-0000048967/latest",
   "history_retention": 3,
   "files": [
+    {
+      "name": "sprawozdanie_finansowe.xml",
+      "kind": "financial_statement_xml",
+      "path": "companies/0000048967-0000048967/latest/sprawozdanie_finansowe.xml"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.json",
+      "kind": "financial_statement_ai_json",
+      "path": "companies/0000048967-0000048967/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai_view.json",
+      "kind": "financial_statement_ai_view_json",
+      "path": "companies/0000048967-0000048967/latest/sprawozdanie_finansowe_ai_view.json"
+    },
     {
       "name": "sprawozdanie_finansowe.pdf",
       "kind": "financial_statement_pdf",
@@ -15,6 +30,16 @@
       "name": "sprawozdanie_finansowe_ai.txt",
       "kind": "financial_statement_ai_text",
       "path": "companies/0000048967-0000048967/latest/sprawozdanie_finansowe_ai.txt"
+    },
+    {
+      "name": "sprawozdanie_zarzadu.pdf",
+      "kind": "management_report_pdf",
+      "path": "companies/0000048967-0000048967/latest/sprawozdanie_zarzadu.pdf"
+    },
+    {
+      "name": "sprawozdanie_zarzadu_ai.txt",
+      "kind": "management_report_ai_text",
+      "path": "companies/0000048967-0000048967/latest/sprawozdanie_zarzadu_ai.txt"
     }
   ]
 }

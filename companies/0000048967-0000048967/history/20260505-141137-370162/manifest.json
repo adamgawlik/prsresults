@@ -1,0 +1,20 @@
+{
+  "company_name": "0000048967",
+  "krs": "0000048967",
+  "status": "downloaded",
+  "published_at": "2026-05-05",
+  "canonical_path": "companies/0000048967-0000048967/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.pdf",
+      "kind": "financial_statement_pdf",
+      "path": "companies/0000048967-0000048967/latest/sprawozdanie_finansowe.pdf"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.txt",
+      "kind": "financial_statement_ai_text",
+      "path": "companies/0000048967-0000048967/latest/sprawozdanie_finansowe_ai.txt"
+    }
+  ]
+}
