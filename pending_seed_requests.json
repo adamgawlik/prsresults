@@ -3,8 +3,8 @@
     "krs": "0000913981",
     "query_name": "oferteo",
     "status": "pending",
-    "reason": "test seed queue for blocked RDF",
+    "reason": "PRS/RDF zablokowal pobranie (403/challenge), cache repo nie ma jeszcze tego KRS.",
     "first_requested_at": "2026-05-07T12:12:48",
-    "last_requested_at": "2026-05-07T12:12:48"
+    "last_requested_at": "2026-05-07T12:13:52"
   }
 ]
