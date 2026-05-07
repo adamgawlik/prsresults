@@ -274,6 +274,20 @@
     "management_report_ai_txt": "companies/0000310459-0000310459/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000319410",
+    "company": "EPRUF SPOKA AKCYJNA",
+    "path": "companies/0000319410-epruf-spoka-akcyjna/latest",
+    "manifest": "companies/0000319410-epruf-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000319410-epruf-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000319410-epruf-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000319410-epruf-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000319410-epruf-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000319410-epruf-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000319410-epruf-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000333440",
     "company": "0000333440",
     "path": "companies/0000333440-0000333440/latest",
