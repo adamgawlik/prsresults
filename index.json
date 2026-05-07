@@ -442,6 +442,20 @@
     "management_report_ai_txt": "companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000842864",
+    "company": "CEPD.TECH Spółka z ograniczoną odpowiedzialnością",
+    "path": "companies/0000842864-cepd.tech-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000842864-cepd.tech-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000842864-cepd.tech-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000842864-cepd.tech-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000842864-cepd.tech-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000842864-cepd.tech-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "",
+    "management_report_ai_txt": ""
+  },
+  {
     "krs": "0000913981",
     "company": "Oferteo S.A.",
     "path": "companies/0000913981-0000913981/latest",
