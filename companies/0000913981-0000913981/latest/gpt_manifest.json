@@ -20,10 +20,22 @@
       "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000913981-0000913981/latest/sprawozdanie_finansowe_ai.json"
     },
     {
+      "kind": "financial_statement_ai_txt",
+      "why": "Plain-text extraction from PDF financial statement when XML is unavailable.",
+      "path": "companies/0000913981-0000913981/latest/sprawozdanie_finansowe_ai.txt",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000913981-0000913981/latest/sprawozdanie_finansowe_ai.txt"
+    },
+    {
       "kind": "financial_statement_xml",
       "why": "Original source XML.",
       "path": "companies/0000913981-0000913981/latest/sprawozdanie_finansowe.xml",
       "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000913981-0000913981/latest/sprawozdanie_finansowe.xml"
+    },
+    {
+      "kind": "financial_statement_pdf",
+      "why": "Original PDF financial statement.",
+      "path": "companies/0000913981-0000913981/latest/sprawozdanie_finansowe.pdf",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000913981-0000913981/latest/sprawozdanie_finansowe.pdf"
     }
   ],
   "analysis_targets": [
