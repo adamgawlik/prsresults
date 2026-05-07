@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "company_name": "URTICA SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+  "krs": "0001096868",
+  "published_at": "2026-05-07",
+  "canonical_path": "companies/0001096868-urtica-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+  "unit_of_measure": "PLN",
+  "start_here": "financial_statement_ai_view_json",
+  "read_order": [
+    {
+      "kind": "financial_statement_ai_view_json",
+      "why": "Fast labeled view of RZiS, bilans, cashflow, equity, and tax note rows.",
+      "path": "companies/0001096868-urtica-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0001096868-urtica-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json"
+    },
+    {
+      "kind": "financial_statement_ai_json",
+      "why": "Faithful XML mirror for detailed verification and edge cases.",
+      "path": "companies/0001096868-urtica-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0001096868-urtica-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "kind": "financial_statement_xml",
+      "why": "Original source XML.",
+      "path": "companies/0001096868-urtica-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0001096868-urtica-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml"
+    }
+  ],
+  "analysis_targets": [
+    "basic company info",
+    "revenues",
+    "costs",
+    "gross result",
+    "net result",
+    "tax note fields"
+  ]
+}
