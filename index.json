@@ -106,6 +106,20 @@
     "management_report_ai_txt": "companies/0000048967-0000048967/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000049482",
+    "company": "PELION SPOKA AKCYJNA",
+    "path": "companies/0000049482-pelion-spoka-akcyjna/latest",
+    "manifest": "companies/0000049482-pelion-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000049482-pelion-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000049482-pelion-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000049482-pelion-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000049482-pelion-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000049482-pelion-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000049482-pelion-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000049482-pelion-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000049482-pelion-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000061293",
     "company": "Fiserv Polska Spółka Akcyjna",
     "path": "companies/0000061293-0000061293/latest",
