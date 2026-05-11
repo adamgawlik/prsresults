@@ -434,6 +434,20 @@
     "management_report_ai_txt": "companies/0000485889-pdl-net-credit-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komandytowo-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000490970",
+    "company": "CENTRUM ELEKTRONICZNYCH USUG PATNICZYCH ESERVICE SPOKA Z OGRANICZONA ODPOWIEDZIA",
+    "path": "companies/0000490970-centrum-elektronicznych-usug-patniczych-eservice-spoka-z-ograniczona-odpowiedzia/latest",
+    "manifest": "companies/0000490970-centrum-elektronicznych-usug-patniczych-eservice-spoka-z-ograniczona-odpowiedzia/latest/manifest.json",
+    "gpt_manifest": "companies/0000490970-centrum-elektronicznych-usug-patniczych-eservice-spoka-z-ograniczona-odpowiedzia/latest/gpt_manifest.json",
+    "financial_statement_xml": "",
+    "financial_statement_ai_json": "",
+    "financial_statement_ai_view_json": "",
+    "financial_statement_pdf": "companies/0000490970-centrum-elektronicznych-usug-patniczych-eservice-spoka-z-ograniczona-odpowiedzia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000490970-centrum-elektronicznych-usug-patniczych-eservice-spoka-z-ograniczona-odpowiedzia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000490970-centrum-elektronicznych-usug-patniczych-eservice-spoka-z-ograniczona-odpowiedzia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000490970-centrum-elektronicznych-usug-patniczych-eservice-spoka-z-ograniczona-odpowiedzia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000606530",
     "company": "Callstack.io Sp. z o.o.",
     "path": "companies/0000606530-callstack.io-spoka-z-ograniczona-odpowiedzialnoscia/latest",
