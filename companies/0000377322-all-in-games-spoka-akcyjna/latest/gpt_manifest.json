@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "company_name": "ALL IN GAMES SPOKA AKCYJNA",
+  "krs": "0000377322",
+  "published_at": "2026-05-11",
+  "canonical_path": "companies/0000377322-all-in-games-spoka-akcyjna/latest",
+  "unit_of_measure": "",
+  "start_here": "management_report_ai_txt",
+  "read_order": [
+    {
+      "kind": "management_report_ai_txt",
+      "why": "Plain-text management report for narrative analysis.",
+      "path": "companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+    },
+    {
+      "kind": "financial_statement_ai_txt",
+      "why": "Plain-text extraction from PDF financial statement when XML is unavailable.",
+      "path": "companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt"
+    },
+    {
+      "kind": "financial_statement_pdf",
+      "why": "Original PDF financial statement.",
+      "path": "companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf"
+    },
+    {
+      "kind": "management_report_pdf",
+      "why": "Original source PDF.",
+      "path": "companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf"
+    }
+  ],
+  "analysis_targets": [
+    "basic company info",
+    "revenues",
+    "costs",
+    "gross result",
+    "net result",
+    "tax note fields"
+  ]
+}
