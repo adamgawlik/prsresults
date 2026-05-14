@@ -1,0 +1,45 @@
+{
+  "company_name": "Humaneva S.A.",
+  "krs": "0001068801",
+  "status": "downloaded",
+  "published_at": "2026-05-14",
+  "canonical_path": "companies/0001068801-humaneva-spoka-akcyjna/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.xml",
+      "kind": "financial_statement_xml",
+      "path": "companies/0001068801-humaneva-spoka-akcyjna/latest/sprawozdanie_finansowe.xml"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.json",
+      "kind": "financial_statement_ai_json",
+      "path": "companies/0001068801-humaneva-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai_view.json",
+      "kind": "financial_statement_ai_view_json",
+      "path": "companies/0001068801-humaneva-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe.pdf",
+      "kind": "financial_statement_pdf",
+      "path": "companies/0001068801-humaneva-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.txt",
+      "kind": "financial_statement_ai_text",
+      "path": "companies/0001068801-humaneva-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt"
+    },
+    {
+      "name": "sprawozdanie_zarzadu.pdf",
+      "kind": "management_report_pdf",
+      "path": "companies/0001068801-humaneva-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf"
+    },
+    {
+      "name": "sprawozdanie_zarzadu_ai.txt",
+      "kind": "management_report_ai_text",
+      "path": "companies/0001068801-humaneva-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+    }
+  ]
+}
