@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-15T01:03:13",
-  "source_file": "sprawozdanie_finansowe.xml",
+  "generated_at": "2026-04-28T10:20:36",
+  "source_file": "02_roczne-sprawozdanie-finansowe__KAMSOF_758b55a5_from_xades.xml",
   "root_tag": "JednostkaInna",
   "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2025/01/01/JednostkaInnaWZlotych",
   "namespaces": {
