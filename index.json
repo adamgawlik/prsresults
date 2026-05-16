@@ -612,6 +612,20 @@
     "management_report_ai_txt": "companies/0000747738-0000747738/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000787719",
+    "company": "Hitachi Energy Services Sp. z o.o.",
+    "path": "companies/0000787719-hitachi-energy-services-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000787719-hitachi-energy-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000787719-hitachi-energy-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000787719-hitachi-energy-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000787719-hitachi-energy-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000787719-hitachi-energy-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000787719-hitachi-energy-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000787719-hitachi-energy-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000803716",
     "company": "FINCARD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "path": "companies/0000803716-fincard-spoka-z-ograniczona-odpowiedzialnoscia/latest",
